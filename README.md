@@ -1,20 +1,20 @@
-AMAZON PRICE TRACKER
+AIR PURIFIERS AMAZON PRICE TRACKER
 ====================
 
-###By Gaurav Mittal, Rahul Mittal and Kaushal Yagnik  
+###BERT MORGAN
 
-####CSL707 ASSIGNMENT-3
+[Best Air Purifiers](http://www.pureairhub.com)
 
 PROBLEM DESCRIPTION
 -------------------
 
-To build an application which automate the tracking of prices of all products which are sold on a particular e-stores allowing users to analyze the trend in the prices and make some profitable decisions based on them.
+To build an application which automate the tracking of prices of all air purifying products which are sold on Amazon website allowing users to analyze the trend in the prices and make some profitable decisions based on them.
 
 
 APPLICATION SUMMARY
 -------------------
 
-The application is essentially a crawler which on providing a start URL and a particular depth traverses the website (Amazon.in) searching for products and scraping their corresponding webpages for the following details:
+The application is essentially a crawler which on providing a start URL and a particular depth traverses the website (Amazon) searching for products and scraping their corresponding webpages for the following details:
 
 * Product Name and Description
 * Product’s unique URL
